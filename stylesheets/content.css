@@ -1,0 +1,76 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+@font-face {
+    font-family:'Kharkiv_Tone';
+    src: url(/font/Kharkiv\ Tone\ 04.10.2020.ttf);
+}
+
+.background{
+    display: block;
+    margin-top: -203%;
+    width: 100%;
+    height: 100%;
+}
+
+.grid1{
+    margin-top: -45.2%;
+    margin-left: 1%;
+    position: relative;
+}
+
+.ramka{
+
+}
+.ramka_cup{
+    position: relative;
+    margin-left: 68%;
+    margin-top: 2%;
+}
+
+.cup{
+    position: relative;
+    margin-top: -40%;
+    margin-left: 70%;
+}
+
+.first_screen{
+margin-left: 3.4%;
+}
+
+.text_initeal{
+    margin-top: -50%;
+    margin-left: 2.5%;
+}
+.initeal{
+    position: absolute;
+    font-size: 700%;
+    margin-top: 8.2%;
+}
+
+.chainaya{
+    position: absolute;
+    font-size: 700%;
+    margin-top: 18.7%;
+    margin-left: 27%;
+}
+
+.ceremony{
+    position: absolute;
+    font-size: 700%;
+    margin-top: 28.6%;
+}
+
+.zvuka{
+    position: absolute;
+    font-size: 700%;
+    margin-top: 39.2%;
+    margin-left: 32%;
+}
+
+
